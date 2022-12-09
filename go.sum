@@ -2,3 +2,7 @@ github.com/ProgrammerZamanNow/go-say-hello v1.5.0 h1:7a6xV2SstZqmz8HLsNe6KLexrHS
 github.com/ProgrammerZamanNow/go-say-hello v1.5.0/go.mod h1:EJJc0H76IhGloHvTvX9ym5EZsGShP2Sf+oeTQGWkzdQ=
 github.com/ferripradana/go-say-hello v1.0.0 h1:2KFDvVjnD6ZrGRt/GfP3ChUWtvQ6VIaalQCt4vgT7EE=
 github.com/ferripradana/go-say-hello v1.0.0/go.mod h1:LeyrJbxI1BRYXExnIWD1a+2lD3abLSxKcOWtt8BeLkc=
+github.com/ferripradana/go-say-hello v1.0.2 h1:3YZ4/b0CAOBV9ZCiZZd/ztAeY/gzwo6Vl3naYIo2M0k=
+github.com/ferripradana/go-say-hello v1.0.2/go.mod h1:LeyrJbxI1BRYXExnIWD1a+2lD3abLSxKcOWtt8BeLkc=
+github.com/ferripradana/go-say-hello/v2 v2.0.0 h1:3UweW07CPTZ4gZN0ltniQ2C5Ew8yUJ5mEOGMVRa3ykM=
+github.com/ferripradana/go-say-hello/v2 v2.0.0/go.mod h1:2E1139znTg/25HoGK/ym8f3Hg564zYfQIpmUvx1ug78=
